@@ -11,6 +11,7 @@ A full-featured social media website built using the MERN stack (MongoDB, Expres
 5. Trendig in India
 6. Follow and unfollow users
 7. Like and comment on posts
+8. Users are getting their posts based on people whom they follow (following)
 
 ## TECHNOLOGIES USED
 
